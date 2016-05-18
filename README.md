@@ -17,5 +17,9 @@ If you want to use my code,you can find 《Thinking in Java(the fourth edition)》
 
 【Program 4】Jicheng
 
-	关于基类初始化的学习。你可以从Java编程思想第四版中的P130练习8找到题目。
-	
+	关于基类初始化的学习。你可以从Java编程思想第四版中的P130练习7找到题目。
+
+【Program 5】Practice8_07
+
+	关于基类初始化的学习，基类有带参数的构造器。你可以从Java编程思想第四版中的
+	P130练习8找到题目。（需要使用super）
